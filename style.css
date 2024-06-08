@@ -1,3 +1,7 @@
+body {
+	background-color: wheat;
+	min-height: 300px;
+}
 .header {
 
 }
@@ -10,5 +14,5 @@
 }
 
 .footer {
-	
+
 }
